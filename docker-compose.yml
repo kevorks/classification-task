@@ -1,0 +1,10 @@
+version: '3'
+services:
+  classification-task-project:
+    build:
+      context: ./
+      dockerfile: src/Dockerfile
+    volumes:
+      - ./data:/app/data
+      - ./src:/app/src
+    command: python3 main.py
