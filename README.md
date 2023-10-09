@@ -37,7 +37,7 @@ The folder structure with the relevant scripts and files is demonstrated below:
     * **logger.conf**: A file that configures the logging settings for a Python application, specifying log message formatting, output handlers (in this case, console output), and the log level (INFO) for the root logger, ensuring that log messages are displayed with timestamps, log levels, and directed to the console.
     * **main.py**: The script that handles the whole functionality of the project.
 
-* **docker-compose.yml**: A docker-compose.yml file that defines a service named sentiment-analysis-project, configures it to build an image using the Dockerfile located in the src directory, sets up volume mappings for data and source code directories, and specifies the command to run when starting the service, which is ```python3 main.py```.
+* **docker-compose.yml**: A docker-compose.yml file that defines a service named classification-task-project, configures it to build an image using the Dockerfile located in the src directory, sets up volume mappings for data and source code directories, and specifies the command to run when starting the service, which is ```python3 main.py```.
 
 
 ## Execution without Docker
