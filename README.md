@@ -92,8 +92,8 @@ The commands above will create and start the container.
    docker-compose down
    ```
 
-## Maintainers
+## Author
 --------------
 
-* **Sevag Kevork** - *Maintainer/Data Scientist* - [me@sevagkevork.net](https://github.com/kevorks)
+* **Sevag Kevork** - *Author/Data Scientist* - [me@sevagkevork.net](https://github.com/kevorks)
 
