@@ -1,4 +1,4 @@
-matplotlib==3.3.4
+matplotlib==3.4.3
 seaborn==0.12.0
 pandas==1.4.2
 scikit-learn==1.1.1
@@ -7,3 +7,4 @@ sklearn-evaluation==0.5.9
 sklearn-evaluation==0.5.9
 lightgbm==3.3.2
 wordcloud==1.9.2
+configparser==5.0.2
